@@ -1,1 +1,2 @@
-stringLab
+#for customtkinter, pip install customtkinter
+#for google genai, pip install google-generativeai
