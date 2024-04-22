@@ -9,7 +9,7 @@ customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("blue")
 
 # Gemini API
-genai.configure(api_key="AIzaSyCl2qFPGrtt-qBxrmnxMIysvlQx2rerhNg")
+genai.configure(api_key="")
 # Gemini Settings
 generation_config = {"temperature": 0.9, "top_p": 1, "top_k": 1, "max_output_tokens": 2048,}
 # Gemini Filters
